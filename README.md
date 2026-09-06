@@ -1,108 +1,93 @@
-# Olá, eu sou Sara Camilo👋
+# Sara Camilo
 
-Desenvolvedora Front-End com experiência em projetos diversos, especializada em criar soluções dinâmicas e eficientes. Tenho paixão por transformar ideias em soluções digitais e sou movida pelo aprendizado contínuo e pela busca por melhorias na acessibilidade e usabilidade dos sistemas.
+**Product Owner e Scrum Master no Observatório da Indústria do Sistema FIEC**, desde dezembro de 2025.
+Fortaleza, CE. Trabalho remoto.
 
-## 🌐 Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saracamilo)
+[![E-mail](https://img.shields.io/badge/sarajcamilo14@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sarajcamilo14@gmail.com)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/saracamilo/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+Acumulo as duas funções numa estrutura enxuta. Conduzo 3 projetos ao mesmo tempo, num time técnico de 15 pessoas.
 
-## 👩‍💻 Sobre mim
+Cheguei ao produto pelo front-end e, no Projeto Aurora, fui PO e desenvolvedora no mesmo projeto.
 
-- 💼 **Anteriormente** Desenvolvedora na Sertão Dev, contribuindo para o projeto **Mapas Culturais**, uma plataforma de gestão cultural do Ceará.
-- 🎯 **Foco:** Desenvolvimento web front end com especialização em JavaScript, HTML, CSS e React, Vue.js e Angular. Também trabalho com Docker e versionamento de código usando Git.
-- 🌱 **Aprendizado contínuo:** Sempre explorando novas tecnologias e metodologias ágeis para otimizar processos e entregar soluções de alta qualidade.
-- 🎨 **Interesses:** Desenvolvimento Front-End, criação de interfaces de usuário, design responsivo, boas práticas de programação.
+---
 
-## 💼 Experiência
+## Projetos de 2026
 
-- 👩‍💻 **Desenvolvedora Front-End**\
-📆 fev/2025
+### ApexBrasil, aplicação do roadmap de governança de dados
 
-📍 **Fiotec / Fundação Oswaldo Cruz** - Brasil
-  - Criação de interfaces com AuroraUI, HTML5, CSS3 e JavaScript para o projeto Minha Casa Melhor.
-  - Foco em UX, acessibilidade e design adaptativo.
+**Papel:** Product Owner. Programa de 1.395 horas contratadas, de junho a dezembro de 2026. São 15 entregáveis em 4 fases de aceite e 11 sprints quinzenais.
 
-- 👩‍💻 **Product  Owner**\
-📆 fev/2025
+Assumi o projeto já em andamento, no lugar da PO anterior. Reconstruí a linha de base.
 
-📍 **Fiotec / Fundação Oswaldo Cruz** - Brasil
-- Organização do board do projeto e mapeamento do fluxo de trabalho, levantando requisitos de
-negócio e definindo prioridades junto aos stakeholders.
-- Desenvolvimento front-end da plataforma Minha Casa Melhor (projeto de saneamento básico da
-Fiocruz) utilizando HTML5, CSS3 e AuroraUI, assegurando acessibilidade e design responsivo.
-- Colaboração com equipes multidisciplinares (design, desenvolvimento e clientes) para alinhar as
-entregas do produto às necessidades dos usuários e objetivos institucionais.
-  
-- 👩‍💻 **Desenvolvedora Front End**\
-📆 fev/2024
+- Auditei os 14 documentos herdados e cataloguei 35 inconsistências por gravidade e por tipo.
+- Corrigi uma divergência de 162 horas entre a planilha de esforço e o contrato, perto de 12% do esforço contratado.
+- Identifiquei estouro de capacidade da função de PO, de 189 para cerca de 278 horas. Levei a decisão de escopo antes do início da fase 1.
+- Montei a matriz com 7 riscos, cada um com probabilidade, impacto, resposta e dono.
+- Mapeei que 38 das 52 tarefas dependiam de aprovação interna do cliente. Passei a registrar essa dependência em ata.
+- Construí o painel web que uso para gerir o programa. Ele reúne plano de ação, roadmap, riscos, entregáveis e achados da auditoria, num site estático escrito à mão, sem framework e sem build.
 
-📍 **Sertão Dev** - Brasil
-  - Desenvolvimento de soluções front-end para a Secretaria de Cultura do Ceará.
-  - Foco na integração entre sistemas e otimização de processos administrativos.
-  - Tecnologias: Vue.js, JavaScript, HTML, CSS, Docker, MySQL, GIT.
+### FIEB, Painel de Crédito para a Indústria da Bahia
 
-- 👩‍💻 **Product  Owner**\
-📆 fev/2024
+**Papel:** Product Owner.
 
-📍 **Sertão Dev** - Brasil
-- Gerenciamento e priorização do backlog no projeto Sistema Aurora (Secretaria da Cultura do
-Ceará), definindo escopo e prioridades junto à equipe de desenvolvimento.
-- Elaboração e refinamento de user stories e tarefas técnicas em colaboração com desenvolvedores,
-garantindo entendimento claro dos requisitos.
-- Desenvolvimento de componentes e interfaces web reutilizáveis com Vue.js, React e biblioteca
-AuroraUI, integrando APIs REST em aplicações responsivas.
-- Colaboração ativa em ambiente ágil (Scrum/Kanban), promovendo comunicação transparente entre o
-time técnico e stakeholders.
+- Conduzi o discovery com 12 usuários confirmados pelo cliente, em 3 papéis.
+- Escrevi 3 personas e 13 histórias de usuário.
+- Montei o backlog de integração de 5 bases públicas, entre elas Banco Central (SCR), BNDES, FINEP e MCTI (Lei do Bem).
+- Levei o protótipo navegável até a aprovação do cliente. A entrega final é um painel com 3 abas.
 
-- 👩‍💻 **Analista de TI Nível 1**\
-📆 jan/2023 - jan/2024
+### FIEB, workshop de formulação da estratégia por OKR, concluído em julho de 2026
 
-📍 **Proxxi Tecnologia** - Brasil
- - Desenvolvimento de soluções em Software para o sistema do Banco Bradesco.
- - Foco na integração entre sistemas e otimização de processos administrativos.
+**Papel:** desenho metodológico e facilitação, na equipe do Observatório.
 
-## 🛠️ Tecnologias e Ferramentas
+Presencial em Salvador, nos dias 15 e 16 de julho de 2026, com cerca de 100 participantes em 7 mesas temáticas. O Observatório entrou com 3 facilitadores. O ciclo 2027-2029 saiu de lá com 15 objetivos estratégicos e 56 resultados-chave, e o registro de iniciativas fechou em 137.
 
-<p align="left" class="badges-row" style="margin:0; display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
-    <a href="#" target="_blank" rel="noreferrer" title="Docker">
-      <img src="https://img.shields.io/badge/Docker-3498DB?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer" title="MySQL">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer" title="GitHub">
-      <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer" title="JavaScript">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer" title="React">
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer" title="Angular">
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer" title="Vue.js">
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer" title="HTML5">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer" title="CSS3">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    </a>
-    <a href="#" target="_blank" rel="noreferrer" title="Node.js">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-    </a>
-  </p>
+---
 
-## 📊 GitHub Stats
+## Antes disso
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saracamilo&show_icons=true&locale=en&layout=compact" alt="saracamilo" align="left" />
-  <img src="https://github-readme-stats.vercel.app/api?username=saracamilo&show_icons=true&theme=tokyonight" alt="saracamilo" align="right" />
-</div>
+**Sertão Dev, Projeto Aurora (Secult/CE)** · março de 2024 a julho de 2025
+Fui PO e desenvolvedora front-end no mesmo projeto, um software livre de gestão cultural. Mantive o backlog no GitHub Projects e co-facilitei as cerimônias. O projeto foi entregue ao cliente com o roadmap concluído, e o código está em [ecossistema-aurora/aurora](https://github.com/ecossistema-aurora/aurora).
+
+**Fiotec / Fiocruz** · fevereiro a maio de 2025
+Bolsista front-end na plataforma Minha Casa Melhor, de saneamento básico. A plataforma foi feita em parceria com a Secretaria Nacional de Periferias, e atuei em UX e acessibilidade.
+
+**Proxxi Tecnologia, projeto Bradesco** · maio de 2023 a fevereiro de 2024
+Analista de TI nível 1 em help desk remoto.
+
+**Digital College Brasil** · junho a dezembro de 2023
+Monitora full stack.
+
+---
+
+## Ferramentas
+
+**Produto e agilidade**
+Asana (principal), GitHub Projects, Trello, Miro, Scrum, Kanban, OKR
+
+**Código**
+JavaScript, HTML5, CSS3, React, Vue.js, Angular, Node.js, MySQL, Docker, Git e GitHub, APIs REST
+
+PHP e Laravel vieram de curso em 2024. Inglês básico a intermediário, para leitura técnica.
+
+---
+
+## Formação
+
+- Certified Scrum Product Owner (CSPO), Scrum Alliance, março de 2026
+- MBA em Gestão de Projetos e Metodologias Ágeis, PUCRS, em andamento (julho de 2026 a agosto de 2027)
+- Tecnólogo em Análise e Desenvolvimento de Sistemas, UniFanor Wyden, em andamento (2026 a 2028)
+- Curso de Governança e Gestão da Inteligência Artificial, IEL Ceará, agosto de 2026
+- Bacharelado em Psicologia, Estácio FIC, concluído em 2020
+
+Palestrante convidada no GitTogether em fevereiro de 2025, sobre inteligência emocional na tecnologia.
+
+---
+
+## Repositórios
+
+- [paginario](https://github.com/saracamilo/paginario), plataforma para clubes de leitura em React e Vite. Projeto autoral, em que eu decido o backlog e escrevo o código.
+- [color-harmony-generator](https://github.com/saracamilo/color-harmony-generator), gerador de paletas de cores em JavaScript.
+- [ecossistema-aurora/aurora](https://github.com/ecossistema-aurora/aurora), o software livre de gestão cultural em que fui PO e desenvolvedora.
+
+Os repositórios de 2023 são exercícios do período de formação.
